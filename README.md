@@ -38,17 +38,22 @@ A simple and lightweight REST API built with **Express.js** that allows you to m
 ---
 
 🛠 Tech Stack
+
 Node.js
+
 Express.js
+
 UUID (for unique task IDs)
+
 File system (fs) for JSON storage
+
 CORS (enabled for frontend use)
 
 
 Run Locally
 1. Clone the repository
-git clone https://github.com/yourusername/task-manager-backend.git
-cd task-manager-backend/backend
+git clone https://github.com/lisan-5/kuraz_internship.git
+cd kuraz_internship/backend
 2. Install dependencies
 npm install
 3. Start the server
