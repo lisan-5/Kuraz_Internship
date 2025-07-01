@@ -37,19 +37,6 @@ A simple and lightweight REST API built with **Express.js** that allows you to m
 
 ---
 
-## 🧪 Example Request
-
-### ➕ Add Task
-
-**POST** `/api/tasks`
-
-**Request Body:**
-```json
-{
-  "title": "Finish homework"
-}
-
-
 🛠 Tech Stack
 Node.js
 Express.js
