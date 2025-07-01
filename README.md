@@ -50,6 +50,10 @@ File system (fs) for JSON storage
 CORS (enabled for frontend use)
 
 
+
+
+
+
 Run Locally
 1. Clone the repository
 git clone https://github.com/lisan-5/kuraz_internship.git
